@@ -1,0 +1,29 @@
+{
+  "name": "selected",
+  "version": "1.0.0",
+  "description": "Simple selection library for the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "build": "browserify index.js  --s Selected -o  dist/selected.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swang/selected"
+  },
+  "keywords": [
+    "selected",
+    "select",
+    "selected text"
+  ],
+  "author": "Shuan Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swang/selected/issues"
+  },
+  "homepage": "https://github.com/swang/selected",
+  "dependencies": {
+    "events": "~1.0.1",
+    "inherits": "~2.0.1"
+  }
+}

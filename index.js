@@ -1,0 +1,1 @@
+selected = require('./lib/selected')
