@@ -1,7 +1,7 @@
 {
   "name": "selected",
   "version": "1.0.0",
-  "description": "Simple selection library for the browser",
+  "description": "Figure out what text is selected in the browser",
   "main": "index.js",
   "scripts": {
     "test": "npm test",
